@@ -6,7 +6,7 @@ googleAnalytics = ""
 
 [params]
     author = "Katie McCall Brown"
-    description = "Blog and Portfolio of Katie McCall Brown\nAspiring Data Scientist"
+    description = "Katie McCall Brown<br />Aspiring Data Scientist"
     githubUsername = "#"
     accent = "red"
     showBorder = true
