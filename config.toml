@@ -11,16 +11,11 @@ googleAnalytics = ""
     accent = "#F84261"
     showBorder = true
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    font = "Montserrat" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     
-    [params.logo]
-      url = "pie_logo.png"
-      width = 50
-      height = 50
-      alt = "Logo"
 
 [[menu.main]]
     url = "/"
