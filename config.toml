@@ -28,7 +28,7 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    url = "/resume/"
+    url = "/resume"
     name = "Resume"
     weight = 3
 
