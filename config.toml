@@ -6,6 +6,7 @@ googleAnalytics = ""
 
 [params]
     author = "Katie McCall Brown"
+    image = "/images/me.jpg"
     description = "Katie McCall Brown<br />Aspiring Data Scientist"
     githubUsername = "#"
     accent = "#F84261"

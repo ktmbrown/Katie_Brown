@@ -4,15 +4,18 @@ author: "Katie M Brown"
 hidedate: true
 ---
 
-# Katie McCall Brown
+# Katie McCall Brown                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <h4><b><i>Aspiring Data Scientist</i></b></h4>
 
 ### Formal Education
 <b>Masters of Mathematics</b><br />Mathematics Education<br />Utah State University<br />Aug 2015
 
 <b>Bachelor of Science</b><br />Mathematics, Statistics & Computer Science<br />Utah State University<br />May 2012: <i>Magna Cum Laude</i>
+<br />
 
 ### Informal Education
+<b>Statistics and R</b><br/ >Harvard via edX: Rafael Irizarry<br />Completed: February 14, 2019<br /><b>[Projects Repo](https://github.com/ktmbrown/new_data_science_project)</b><br />[Blog Posts](/tags/go/)
+
 <b>Data Science A-Z</b><br/ >Udemy: Kirill Eremenko<br />Completed: December 31, 2018<br /><b>[Projects Repo](https://github.com/ktmbrown/new_data_science_project)</b><br />[Blog Posts](/tags/go/)
 
 <b>R Programming A-Z</b><br/ >Udemy: Kirill Eremenko<br />Completed: December 31, 2018<br /><b>[Projects Repo](https://github.com/ktmbrown/new_data_science_project)</b><br />[Blog Posts](/tags/go/)
@@ -20,6 +23,7 @@ hidedate: true
 <b>Python for Data Science and Machine Learning Bootcamp</b><br/ >Udemy: Jose Portilla<br />Completed: December 31, 2018<br /><b>[Projects Repo](https://github.com/ktmbrown/new_data_science_project)</b><br />[Blog Posts](/tags/go/)
 
 <b>Applied Statistical Modeling for Data Analysis in R</b><br/ >Udemy: Minerva Singh<br />Completed: December 31, 2018<br /><b>[Projects Repo](https://github.com/ktmbrown/new_data_science_project)</b><br />[Blog Posts](/tags/go/)
+<br />
 
 ### Work Experience
 <b>Computer Science Teacher</b><br />Reagan High School<br />&nbsp;&nbsp;&nbsp;&nbsp;<i>Description here</i><br />Aug 2017 - Current
@@ -27,3 +31,8 @@ hidedate: true
 <b>Mathematics Teacher</b><br />Reagan High School<br />&nbsp;&nbsp;&nbsp;&nbsp;<i>Description here</i><br />Aug 2017 - June 2018
 
 <b>Mathematics Teacher</b><br />MacArthur High School<br />&nbsp;&nbsp;&nbsp;&nbsp;<i>Description here</i><br />Aug 2015 - June 2017
+<br />
+
+### Skills
+
+![Katie](/images/me.jpg){width=100px}
