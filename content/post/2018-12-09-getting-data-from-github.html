@@ -1,0 +1,29 @@
+---
+title: Getting Data from Github
+author: Katie M. Brown
+date: '2018-12-09'
+slug: getting-data-from-github
+categories: []
+tags: [R, github]
+---
+
+
+
+<p>For every data project, you’ll need to get your data from some source. This short blog post will guide you through a few different ways of pulling data from a github repo.</p>
+<div id="a.-download-from-link" class="section level3">
+<h3>A. Download from link</h3>
+<div id="step-1-install-and-load-downloader-package" class="section level4">
+<h4>Step 1: Install and load <strong>downloader</strong> package</h4>
+<p>You can download the data from a direct link by using the <strong>downloader</strong> package. Install the package and use the <strong>library()</strong> function to load the package:</p>
+<pre class="r"><code>install.packages(&quot;downloader&quot;)
+library(downloader)</code></pre>
+<p><br /></p>
+</div>
+<div id="step-2-store-link-in-variable" class="section level4">
+<h4>Step 2: Store link in variable</h4>
+<p>Navigate to the dataset you want to install and get a copy of the direct link by right clicking on the data file and clicking copy link.</p>
+<p><img src="/post/2018-12-09-getting-data-from-github_files/screenshot.png" alt="" width="100%"/> <br /></p>
+<p>Store this in a variable called <em>url</em>:</p>
+<pre class="r"><code>url &lt;- &quot;https://github.com/curran/data/blob/gh-pages/motherjones/shootings-1982-2015.csv&quot;</code></pre>
+</div>
+</div>
